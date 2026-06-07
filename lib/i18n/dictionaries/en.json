@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "quote": "Request a Quote",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "ITBAALI",
+    "subtitle": "Advertising, Printing & Graphic Design",
+    "description": "Create an exceptional brand image with our professional graphic design and printing services in Tangier, Morocco.",
+    "cta": "Request a Quote",
+    "cta_secondary": "View Our Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Creative solutions for all your advertising and printing needs",
+    "view_all": "View All Services"
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Discover our achievements",
+    "view_project": "View Project",
+    "all": "All",
+    "logos": "Logos",
+    "business_cards": "Business Cards",
+    "flyers": "Flyers",
+    "banners": "Banners",
+    "menus": "Menus",
+    "invitations": "Invitations",
+    "websites": "Websites"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Client satisfaction is our priority"
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Fill out the form below and we will get back to you as soon as possible",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Service Type",
+      "select_service": "Select a service",
+      "description": "Project Description",
+      "budget": "Estimated Budget",
+      "deadline": "Desired Deadline",
+      "submit": "Submit Request",
+      "success": "Your request has been submitted successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "about": {
+    "title": "About ITBAALI",
+    "subtitle": "Your creative partner in Tangier",
+    "story": { "title": "Our Story", "content": "ITBAALI is a leading company in advertising, printing, and graphic design in Tangier, Morocco." },
+    "mission": { "title": "Our Mission", "content": "We aim to transform ideas into visual reality." },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality",
+      "quality_desc": "We deliver work of the highest quality.",
+      "creativity": "Creativity",
+      "creativity_desc": "We bring fresh and innovative ideas.",
+      "reliability": "Reliability",
+      "reliability_desc": "You can count on us."
+    },
+    "stats": { "clients": "Satisfied Clients", "projects": "Projects Completed", "years": "Years of Experience" }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help you",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully!",
+      "error": "An error occurred."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Boukhalef, Tangier, Morocco",
+      "phone": "Phone",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "hours": "Opening Hours",
+      "hours_value": "Mon - Sat: 9:00 AM - 6:00 PM"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for all your advertising, printing, and graphic design needs in Tangier, Morocco.",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact",
+    "follow_us": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": { "tooltip": "Chat with us on WhatsApp", "message": "Hello! I'm interested in your services." },
+  "common": { "loading": "Loading...", "error": "An error occurred", "no_results": "No results found" }
+}

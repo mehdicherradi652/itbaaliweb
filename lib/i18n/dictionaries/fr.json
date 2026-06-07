@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "quote": "Demander un Devis",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "ITBAALI",
+    "subtitle": "Publicité, Impression & Design Graphique",
+    "description": "Créez une image de marque exceptionnelle avec nos services professionnels de design graphique et d'impression à Tanger, Maroc.",
+    "cta": "Demander un Devis",
+    "cta_secondary": "Voir nos Services"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions créatives pour tous vos besoins en publicité et impression",
+    "view_all": "Voir tous les services"
+  },
+  "portfolio": {
+    "title": "Notre Portfolio",
+    "subtitle": "Découvrez nos réalisations",
+    "view_project": "Voir le projet",
+    "all": "Tous",
+    "logos": "Logos",
+    "business_cards": "Cartes de Visite",
+    "flyers": "Flyers",
+    "banners": "Bannières",
+    "menus": "Menus",
+    "invitations": "Invitations",
+    "websites": "Sites Web"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "subtitle": "La satisfaction de nos clients est notre priorité"
+  },
+  "quote": {
+    "title": "Demander un Devis",
+    "subtitle": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Numéro de téléphone",
+      "service": "Type de service",
+      "select_service": "Sélectionnez un service",
+      "description": "Description du projet",
+      "budget": "Budget estimé",
+      "deadline": "Date limite souhaitée",
+      "submit": "Envoyer la demande",
+      "success": "Votre demande a été envoyée avec succès!",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "about": {
+    "title": "À Propos de ITBAALI",
+    "subtitle": "Votre partenaire créatif à Tanger",
+    "story": {
+      "title": "Notre Histoire",
+      "content": "ITBAALI est une entreprise leader dans le domaine de la publicité, de l'impression et du design graphique à Tanger, Maroc."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "content": "Nous visons à transformer les idées en réalité visuelle."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "quality": "Qualité",
+      "quality_desc": "Nous nous engageons à livrer un travail de la plus haute qualité.",
+      "creativity": "Créativité",
+      "creativity_desc": "Nous apportons des idées fraîches et innovantes.",
+      "reliability": "Fiabilité",
+      "reliability_desc": "Vous pouvez compter sur nous."
+    },
+    "stats": {
+      "clients": "Clients Satisfaits",
+      "projects": "Projets Réalisés",
+      "years": "Années d'Expérience"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Numéro de téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Votre message a été envoyé avec succès!",
+      "error": "Une erreur s'est produite."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "address": "Boukhalef, Tanger, Maroc",
+      "phone": "Téléphone",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "hours": "Horaires d'Ouverture",
+      "hours_value": "Lun - Sam: 9h00 - 18h00"
+    }
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour tous vos besoins en publicité, impression et design graphique à Tanger, Maroc.",
+    "quick_links": "Liens Rapides",
+    "contact_info": "Contact",
+    "follow_us": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  },
+  "whatsapp": {
+    "tooltip": "Discutez avec nous sur WhatsApp",
+    "message": "Bonjour! Je suis intéressé par vos services."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "no_results": "Aucun résultat trouvé"
+  }
+}
